@@ -67,11 +67,10 @@ This dashboard analyzes revenue from a customer perspective, focusing on:
 
 ---
 
-## 🧠 Business Insights
-- Certain card categories contribute significantly higher revenue.
-- High transaction volume does not always translate to higher revenue.
-- Specific customer income groups generate maximum revenue.
-- Weekly reporting helps track performance changes over time.
+## 📌 Detailed Insights
+Detailed business insights derived from the dashboards are documented in the **Notes** folder:
+- [Business Insights](Notes/Business_Insights.md)
+
 
 ---
 
