@@ -19,7 +19,7 @@ The project simulates a real-world business intelligence workflow by integrating
 1. Raw data was available in CSV format.
 2. CSV data was loaded into a MySQL database.
 3. Power BI was connected to MySQL for data import.
-4. DAX measures were created for revenue, transactions, and KPIs.
+4. DAX queries were used for data processing and modelling to create columns like age-group, income-group and week-num.
 5. Interactive dashboards were developed for weekly reporting.
 
 To validate the data pipeline, new records were inserted into the MySQL database and the Power BI dashboards were refreshed to confirm that updated data was reflected correctly.
