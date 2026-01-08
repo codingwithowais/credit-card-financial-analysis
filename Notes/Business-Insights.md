@@ -23,6 +23,7 @@ This document summarizes key insights derived from the Power BI dashboards creat
 - Revenue contribution varies weekly which can help identifying the business weeks and months.
 - Customers who have 2-3 dependent people are contributing the most to the total revenue.
 - Top revenue generating states help to identify the regions contributing to the revenue the most.
+- All the insights are generated for both male and female using different colors to help analyze the customer behaviour based on gender.
 
 ---
 
