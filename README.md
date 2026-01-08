@@ -69,7 +69,7 @@ This dashboard analyzes revenue from a customer perspective, focusing on:
 
 ## 📌 Detailed Insights
 Detailed business insights derived from the dashboards are documented in the **Notes** folder:
-- [Business Insights](Notes/Business_Insights.md)
+- [Business Insights](Notes/Business-Insights.md)
 
 
 ---
